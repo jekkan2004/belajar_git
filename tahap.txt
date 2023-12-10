@@ -1,3 +1,6 @@
 - membuat file
 - commit file
 - membuat branch file
+- membuat merge file
+- push file
+- pull file
