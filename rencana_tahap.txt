@@ -1,0 +1,7 @@
+Rencananya adalah :
+- bisa backend
+ - mempelajari dasar nestjs
+- mempelajari dasar backend
+
+
+-bisa frontend
