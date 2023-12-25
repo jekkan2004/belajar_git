@@ -1,9 +1,14 @@
 Rencananya adalah :
 - bisa backend
  - mempelajari dasar nestjs
+   - dasar nest
+   - konsep nest
 - mempelajari dasar backend
 
 
 -bisa frontend
  - mempelajari react
  - mempelajari vue
+
+- bisa database postgre
+  - dasar postgre
