@@ -1,9 +1,13 @@
 Rencananya adalah :
 - bisa backend
  - mempelajari dasar nestjs
+ - mempelajari laravel
 - mempelajari dasar backend
 
 
 -bisa frontend
  - mempelajari react
  - mempelajari vue
+
+- bisa database xampp
+  - dasar xampp
