@@ -4,3 +4,7 @@
 - membuat merge file
 - push file
 - pull file
+
+Tambahan :
+- Framework NestJS
+- React
