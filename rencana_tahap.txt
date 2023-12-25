@@ -1,7 +1,8 @@
 Rencananya adalah :
 - bisa backend
  - mempelajari dasar nestjs
- - mempelajari laravel
+   - dasar nest
+   - konsep nest
 - mempelajari dasar backend
 
 
@@ -9,5 +10,5 @@ Rencananya adalah :
  - mempelajari react
  - mempelajari vue
 
-- bisa database xampp
-  - dasar xampp
+- bisa database postgre
+  - dasar postgre
